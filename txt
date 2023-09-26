@@ -1,0 +1,13 @@
+Bkygit@1263
+
+
+name 
+email
+username
+password
+number
+join date 
+imagepath
+
+
+Register@123
