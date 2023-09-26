@@ -4,8 +4,8 @@ id
 name 
 email
 username
-password
 number
+password
 join date 
 imagepath
 
